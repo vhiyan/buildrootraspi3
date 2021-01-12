@@ -7,10 +7,10 @@ use this cred to login
 `password : raspberry` 
 
 Feature OS : 
-  -node 
-  -npm 
-  -git
-  -ssh 
-  -vpn
-  -nano 
+-node
+-npm 
+-git
+-ssh 
+-vpn
+-nano 
   
