@@ -3,14 +3,15 @@
 create custom OS with buildroot 
 use this cred to login
 
-`username : root`
-`password : raspberry` 
+```username : root```
 
-Feature OS : 
--node
--npm 
--git
--ssh 
--vpn
--nano 
+```password : raspberry``` 
+
+## Feature OS : 
+- node
+- npm 
+- git
+- ssh 
+- vpn
+- nano 
   
